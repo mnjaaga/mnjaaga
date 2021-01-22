@@ -58,8 +58,8 @@ Here are some ideas to get you started:
  * Writing project proposals
  
  # 📫 How to reach me: ...
- * Email- afidermbuge1@gmail.com
- * Mobile - +254 729023458
+ * Email- mnjaaga@gmail.com
+ * Mobile - 404 547 5651
  * [linkedin](https://www.linkedin.com/in/monicah-njaaga-74986873/)
  
  # ⚡ Fun fact: ...
