@@ -54,7 +54,7 @@ Here are some ideas to get you started:
  
  # 💬 Ask me about ...
  * Data (mining, analysis, prediction, ETL & validation)
- * python programming basics
+ * Python Programming: Project documentation, MongoDB
  * MongoDB
  * Project Documentation
  * Writing project proposals
