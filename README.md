@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 * Machine Learning and Deep Learning Projects
 
 ## 🌱 Currently learning ...
-* Scrapy/ BeautifulSoup
+* Scrapy, BeautifulSoup
 * Python programming language
 * Databases
   * MongoDB
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
  * Pytorch
  
  # 💬 Ask me about ...
- * Data (mining, analysis, ETL & validation)
+ * Data (mining, analysis, prediction, ETL & validation)
  * python programming basics
  * MongoDB
  * Project Documentation
