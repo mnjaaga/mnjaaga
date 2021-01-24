@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * Data Mining and Data Cleaning Projects
 * Machine Learning and Deep Learning Projects
 
-## 🌱 Currently learning ...
+## 🌱 Intermediate level experience with ...
 * Scrapy, BeautifulSoup
 * Python programming language
 * Databases
