@@ -53,8 +53,8 @@ Here are some ideas to get you started:
  * Pytorch
  
  # 💬 Ask me about ...
- * Data (mining, analysis, prediction, ETL & validation)
- * Python Programming: Project documentation, MongoDB
+ * Data (mining, analysis, prediction, ETL & validation, SAP table structures & data migration)
+ * Python Programming
  * MongoDB
  * Project Documentation
  * Writing project proposals
